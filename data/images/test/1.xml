@@ -1,25 +1,26 @@
 <annotation>
 	<folder>images</folder>
-	<filename>Adachi_20170906093840.jpg</filename>
+	<filename>1.jpg</filename>
+	<path>/home/gardin/Documents/dev/object_detection_demo/data/images/1.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>600</width>
+		<width>800</width>
 		<height>600</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>D20</name>
+		<name>long_crack</name>
 		<pose>Unspecified</pose>
 		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1</xmin>
-			<ymin>366</ymin>
-			<xmax>181</xmax>
-			<ymax>595</ymax>
+			<xmin>104</xmin>
+			<ymin>190</ymin>
+			<xmax>404</xmax>
+			<ymax>600</ymax>
 		</bndbox>
 	</object>
 </annotation>
