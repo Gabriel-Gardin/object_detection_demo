@@ -1,6 +1,6 @@
 <annotation>
-	<folder>images</folder>
-	<filename>Muroran_20170911133517.jpg</filename>
+	<folder>pickup</folder>
+	<filename>Muroran_20170911133837.jpg</filename>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -11,15 +11,27 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>D50</name>
+		<name>D40</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>195</xmin>
-			<ymin>476</ymin>
-			<xmax>231</xmax>
-			<ymax>492</ymax>
+			<xmin>518</xmin>
+			<ymin>477</ymin>
+			<xmax>556</xmax>
+			<ymax>521</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>D40</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>470</xmin>
+			<ymin>468</ymin>
+			<xmax>512</xmax>
+			<ymax>486</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -28,10 +40,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>62</xmin>
-			<ymin>542</ymin>
-			<xmax>110</xmax>
-			<ymax>565</ymax>
+			<xmin>435</xmin>
+			<ymin>475</ymin>
+			<xmax>529</xmax>
+			<ymax>520</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -40,10 +52,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>94</xmin>
-			<ymin>407</ymin>
-			<xmax>161</xmax>
-			<ymax>423</ymax>
+			<xmin>202</xmin>
+			<ymin>343</ymin>
+			<xmax>244</xmax>
+			<ymax>353</ymax>
 		</bndbox>
 	</object>
-</annotation>
+	</annotation>
