@@ -1,6 +1,7 @@
 <annotation>
 	<folder>images</folder>
-	<filename>Muroran_20170911133816.jpg</filename>
+	<filename>Adachi_20170906093902.jpg</filename>
+	<path>/home/ubuntu/dataset/dataset/images/Adachi_20170906093902.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -16,46 +17,22 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>27</xmin>
-			<ymin>374</ymin>
-			<xmax>225</xmax>
-			<ymax>563</ymax>
+			<xmin>396</xmin>
+			<ymin>345</ymin>
+			<xmax>598</xmax>
+			<ymax>470</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>D50</name>
+		<name>D44</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>275</xmin>
-			<ymin>303</ymin>
-			<xmax>307</xmax>
-			<ymax>313</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>D50</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>294</xmin>
-			<ymin>321</ymin>
-			<xmax>334</xmax>
-			<ymax>342</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>D40</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>237</xmin>
-			<ymin>416</ymin>
-			<xmax>269</xmax>
-			<ymax>454</ymax>
+			<xmin>314</xmin>
+			<ymin>255</ymin>
+			<xmax>409</xmax>
+			<ymax>329</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -64,10 +41,34 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>439</xmin>
-			<ymin>377</ymin>
-			<xmax>567</xmax>
-			<ymax>461</ymax>
+			<xmin>167</xmin>
+			<ymin>356</ymin>
+			<xmax>302</xmax>
+			<ymax>383</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>D10</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>147</xmin>
+			<ymin>391</ymin>
+			<xmax>285</xmax>
+			<ymax>411</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>D10</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>180</xmin>
+			<ymin>327</ymin>
+			<xmax>277</xmax>
+			<ymax>351</ymax>
 		</bndbox>
 	</object>
 </annotation>
