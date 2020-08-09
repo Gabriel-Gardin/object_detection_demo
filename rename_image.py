@@ -9,7 +9,7 @@ def rename_all(source):
     i = 0
     for file in glob.glob("*.jpg"):
         try:
-            os.rename(file[:-3]+'xml','{}.xml'.format(i))
+            #os.rename(file[:-3]+'xml','{}.xml'.format(i))
             os.rename(file,'{}.jpg'.format(i))
         except Exception as e:
             os.remove(file)
@@ -19,5 +19,5 @@ def rename_all(source):
     
 
 if __name__ == "__main__":
-    src = "/home/gardin/Documents/dev/RoadDamageDetector-master/RDD2020_data/train_data/images_subset"
+    src = "/home/gardin/Desktop/placas"
     rename_all(src)
